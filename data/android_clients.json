@@ -1,0 +1,910 @@
+{
+  "com.google.android.apps.vega": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnZlZ2EaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    },
+    {
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnZlZ2EaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.keep": [
+    {
+      "spatula": "CjcKF2NvbS5nb29nbGUuYW5kcm9pZC5rZWVwGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng==",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.jam": [
+    {
+      "sig": "9c1de3b64590e313470bb920f9f4b7819ee06140",
+      "spatula": "CjsKG2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmphbRocbkIzanRrV1E0eE5IQzdrZytmUzNnWjdnWVVBPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.videos": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CjkKGWNvbS5nb29nbGUuYW5kcm9pZC52aWRlb3MaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.chrome.beta": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "Ci8KD2NvbS5jaHJvbWUuYmV0YRocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY="
+    },
+    {
+      "spatula": "Ci8KD2NvbS5jaHJvbWUuYmV0YRocRlRPbW1heXNsaWdROFh2T2xrcWlMbVRmRVZNPRi4p4DniZig+jY=",
+      "sig": "1533a699acac962810f17bce964aa22e64df1153"
+    }
+  ],
+  "com.google.android.apps.translate": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRyYW5zbGF0ZRocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.youtube.music": [
+    {
+      "sig": "afb0fed5eeaebdd86f56a97742f4b6b33ef59875",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUubXVzaWMaHHI3RCsxZTZ1dmRodlZxbDNRdlMyc3o3MW1IVT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.tungsten.setupwraith": [
+    {
+      "spatula": "CkcKJ2NvbS5nb29nbGUuYW5kcm9pZC50dW5nc3Rlbi5zZXR1cHdyYWl0aBocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.area120.kormo.seeker": [
+    {
+      "sig": "d613203857b8baaada6bc6437d0d79daac6c4863",
+      "spatula": "CjgKGGNvbS5hcmVhMTIwLmtvcm1vLnNlZWtlchocMWhNZ09GZTR1cXJhYThaRGZRMTUycXhzU0dNPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.toontastic": [
+    {
+      "spatula": "CjUKFWNvbS5nb29nbGUudG9vbnRhc3RpYxocWW5DSllnUWlxVjJ6ZkNrRE04SDRUR2pHNlRFPRi4p4DniZig+jY=",
+      "sig": "627089620422a95db37c290333c1f84c68c6e931"
+    }
+  ],
+  "com.google.android.apps.youtube.creator": [
+    {
+      "spatula": "CkcKJ2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUuY3JlYXRvchocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.books": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmJvb2tzGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.youtube.vr": [
+    {
+      "sig": "0cf9830f4b0d65703d4160d4e90e708ee8262a2e",
+      "spatula": "CkIKImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUudnIaHERQbUREMHNOWlhBOVFXRFU2UTV3anVnbUtpND0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.actionsservice": [
+    {
+      "sig": "b1d55e65e686727fa9561f08de829c80de07fbce",
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFjdGlvbnNzZXJ2aWNlGhxzZFZlWmVhR2NuK3BWaDhJM29LY2dONEgrODQ9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.googlequicksearchbox": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CkcKJ2NvbS5nb29nbGUuYW5kcm9pZC5nb29nbGVxdWlja3NlYXJjaGJveBocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.enterprise.dmagent": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkoKKmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmVudGVycHJpc2UuZG1hZ2VudBocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.tv.launcherx": [
+    {
+      "sig": "815dc703acbd787dc9bf4ae3c90afdd85a046a8f",
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnR2LmxhdW5jaGVyeBocZ1YzSEE2eTllSDNKdjByanlRcjkyRm9FYW84PRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.adwords": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFkd29yZHMaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.vr.home": [
+    {
+      "sig": "fc1edc68f7e3e4963c998e95fc38f3de8d1bfc96",
+      "spatula": "CjoKGmNvbS5nb29nbGUuYW5kcm9pZC52ci5ob21lGhwvQjdjYVBmajVKWThtWTZWL0RqejNvMGIvSlk9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.docs.editors.slides": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CksKK2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmRvY3MuZWRpdG9ycy5zbGlkZXMaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.tvrecommendations": [
+    {
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC50dnJlY29tbWVuZGF0aW9ucxocTFYrSmJqV1FEUnhFUlMyWm1idTBGa2JpNml3PRi4p4DniZig+jY=",
+      "sig": "2d5f896e35900d1c44452d9999bbb41646e2ea2c"
+    }
+  ],
+  "com.android.chrome": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjIKEmNvbS5hbmRyb2lkLmNocm9tZRocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.classroom": [
+    {
+      "sig": "46f6c8987311e131f4f558d8e0ae145bebab6da3",
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNsYXNzcm9vbRocUnZiSW1ITVI0VEgwOVZqWTRLNFVXK3VyYmFNPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.vr.eva": [
+    {
+      "sig": "25b24d2d9faa0e9faa428e1b715c1374ad04c0d4",
+      "spatula": "CjEKEWNvbS5nb29nbGUudnIuZXZhGhxKYkpOTForcURwK3FRbzRiY1Z3VGRLMEV3TlE9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.setupwizard": [
+    {
+      "spatula": "Cj4KHmNvbS5nb29nbGUuYW5kcm9pZC5zZXR1cHdpemFyZBocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.paidtasks": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBhaWR0YXNrcxocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.play.billingtestcompanion": [
+    {
+      "sig": "f1f1e7d65e2f94efdf3d46dfaca342e93ed62cbf",
+      "spatula": "ClEKMWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBsYXkuYmlsbGluZ3Rlc3Rjb21wYW5pb24aHDhmSG4xbDR2bE8vZlBVYmZyS05DNlQ3V0xMOD0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.wellbeing": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLndlbGxiZWluZxocVHIzUUk0RHgrZ3RuUVVrZkN2TldKZHVuYnA4PRi4p4DniZig+jY=",
+      "sig": "4ebdd02380f1fa0b6741491f0af35625dba76e9f"
+    }
+  ],
+  "com.google.android.katniss": [
+    {
+      "spatula": "CjoKGmNvbS5nb29nbGUuYW5kcm9pZC5rYXRuaXNzGhxkVy84RTlkVUpIRFlIT1h1UnZkQXo5YkwrdHc9GLingOeJmKD6Ng==",
+      "sig": "756ffc13d7542470d81ce5ee46f740cfd6cbfadc"
+    }
+  ],
+  "com.google.android.apps.subscriptions.red": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnN1YnNjcmlwdGlvbnMucmVkGhwzb01Fck9kRXJreE9CWWg2SjZlUWdWNWhEL0E9GLingOeJmKD6Ng==",
+      "sig": "de8304ace744ae4c4e05887a27a790815e610ff0"
+    }
+  ],
+  "com.google.glass.companion": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CjoKGmNvbS5nb29nbGUuZ2xhc3MuY29tcGFuaW9uGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.edu.nfcprogrammer": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmVkdS5uZmNwcm9ncmFtbWVyGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.fitbit.p11.companion": [
+    {
+      "sig": "896a3b334075c628e0b25bd01e7ee06d9b143afc",
+      "spatula": "CkwKLGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmZpdGJpdC5wMTEuY29tcGFuaW9uGhxpV283TTBCMXhpamdzbHZRSG43Z2Jac1VPdnc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.docs": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmRvY3MaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.nbu.files": [
+    {
+      "sig": "9f591218c092ce2ae72aeb71c2ea00a7cbf20030",
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5idS5maWxlcxocbjFrU0dNQ1N6aXJuS3V0eHd1b0FwOHZ5QURBPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.baselinestudy": [
+    {
+      "sig": "0d4cfe054331c9f84a2848eff3335b213265766a",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmJhc2VsaW5lc3R1ZHkaHERVeitCVU14eWZoS0tFanY4ek5iSVRKbGRtbz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.gm": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjUKFWNvbS5nb29nbGUuYW5kcm9pZC5nbRocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.youtube.gaming": [
+    {
+      "sig": "5ea0fa46ce868ce92442c9d0e0a50b19c2abbdeb",
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUuZ2FtaW5nGhxYcUQ2UnM2R2pPa2tRc25RNEtVTEdjS3J2ZXM9GLingOeJmKD6Ng=="
+    },
+    {
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUuZ2FtaW5nGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.socratic": [
+    {
+      "spatula": "CjMKE2NvbS5nb29nbGUuc29jcmF0aWMaHDNzV09HUk51TG1GR1lqYW54RWpQSjg5bTlIbz0YuKeA54mYoPo2",
+      "sig": "dec58e19136e2e61466236a7c448cf27cf66f47a"
+    }
+  ],
+  "com.google.android.apps.restore": [
+    {
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnJlc3RvcmUaHEdkcVVpV3prQjR3NHltbFhBZkhleDBIc2JXYz0YuKeA54mYoPo2",
+      "sig": "19da94896ce4078c38ca695701f1dec741ec6d67"
+    }
+  ],
+  "com.google.android.tv": [
+    {
+      "sig": "87d0449db666fcfa1faaf1d11178ad7b50f73532",
+      "spatula": "CjUKFWNvbS5nb29nbGUuYW5kcm9pZC50dhocaDlCRW5iWm0vUG9mcXZIUkVYaXRlMUQzTlRJPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.pixelmigrate": [
+    {
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBpeGVsbWlncmF0ZRocdXcvOU53RUxZb2M5VU1pdENUcy9pVngybUFzPRi4p4DniZig+jY=",
+      "sig": "bb0ffd37010b62873d50c8ad093b3f895c76980b"
+    }
+  ],
+  "com.google.android.apps.ads.publisher": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFkcy5wdWJsaXNoZXIaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.dynamite": [
+    {
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmR5bmFtaXRlGhxVWnhhRjZZRmx1YitXVE81eTBLRjU3RGw2M3M9GLingOeJmKD6Ng==",
+      "sig": "519c5a17a60596e6fe5933b9cb4285e7b0e5eb7b"
+    }
+  ],
+  "com.google.android.apps.genie.geniewidget": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmdlbmllLmdlbmlld2lkZ2V0GhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.fireball": [
+    {
+      "sig": "a0c8a767e81dddceb31b05e6f22611cf03e2d0dd",
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmZpcmViYWxsGhxvTWluWitnZDNjNnpHd1htOGlZUnp3UGkwTjA9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.ondemand.consumer": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm9uZGVtYW5kLmNvbnN1bWVyGhwrc241VFJmYSs3KzgxUmJucVlRWWRSQ0tSNGs9GLingOeJmKD6Ng==",
+      "sig": "fac9f94d17dafbbfbcd516e7a9841875108a4789"
+    }
+  ],
+  "com.google.android.apps.youtube.kids": [
+    {
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUua2lkcxocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.hire": [
+    {
+      "sig": "22d8dfbb9a299e7b2bc4e62f9a1be933f1ceb808",
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmhpcmUaHEl0amZ1NW9wbm5zcnhPWXZtaHZwTS9IT3VBZz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.ears": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjcKF2NvbS5nb29nbGUuYW5kcm9pZC5lYXJzGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.vr.cyclops": [
+    {
+      "sig": "188c5ca3863fa121216157a5baa80755ceda70ab",
+      "spatula": "CjUKFWNvbS5nb29nbGUudnIuY3ljbG9wcxocR0l4Y280WS9vU0VoWVZlbHVxZ0hWYzdhY0tzPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.chromecast.app": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNocm9tZWNhc3QuYXBwGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.village.boond": [
+    {
+      "sig": "48e7985b8f901df335b5d5223579c81618431c7b",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnZpbGxhZ2UuYm9vbmQaHFNPZVlXNCtRSGZNMXRkVWlOWG5JRmhoREhIcz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.as.oss": [
+    {
+      "sig": "f93d964d329018041c572086ad7cf809d607bb70",
+      "spatula": "CjkKGWNvbS5nb29nbGUuYW5kcm9pZC5hcy5vc3MaHCtUMldUVEtRR0FRY1Z5Q0dyWHo0Q2RZSHUzQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.youtube.tv": [
+    {
+      "sig": "61226bdb57cc32c8a2a9ef71f7bc9548e95dcc0b",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC55b3V0dWJlLnR2GhxZU0pyMjFmTU1zaWlxZTl4OTd5VlNPbGR6QXM9GLingOeJmKD6Ng=="
+    },
+    {
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC55b3V0dWJlLnR2GhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.syncadapters.contacts": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CkgKKGNvbS5nb29nbGUuYW5kcm9pZC5zeW5jYWRhcHRlcnMuY29udGFjdHMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.things.companion": [
+    {
+      "sig": "5bcf5b63b920ef7e70c6d8b037d20e42ad19847a",
+      "spatula": "CkMKI2NvbS5nb29nbGUuYW5kcm9pZC50aGluZ3MuY29tcGFuaW9uGhxXODliWTdrZzczNXd4dGl3TjlJT1FxMFpoSG89GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.inputmethod.latin": [
+    {
+      "sig": "bd32424203e0fb25f36b57e5aa356f9bdd1da998",
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5pbnB1dG1ldGhvZC5sYXRpbhocdlRKQ1FnUGcreVh6YTFmbHFqVnZtOTBkcVpnPRi4p4DniZig+jY="
+    },
+    {
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5pbnB1dG1ldGhvZC5sYXRpbhocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.access.wifi.consumer": [
+    {
+      "spatula": "CkwKLGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFjY2Vzcy53aWZpLmNvbnN1bWVyGhwyRkEzbFVEV2o3N0lLblFxdHFneUdqK2FUSHc9GLingOeJmKD6Ng==",
+      "sig": "d850379540d68fbec82a742ab6a8321a3f9a4c7c"
+    }
+  ],
+  "com.google.android.dialer": [
+    {
+      "spatula": "CjkKGWNvbS5nb29nbGUuYW5kcm9pZC5kaWFsZXIaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    },
+    {
+      "sig": "203997bc46b8792dc9747abd230569071f9a0439",
+      "spatula": "CjkKGWNvbS5nb29nbGUuYW5kcm9pZC5kaWFsZXIaHElEbVh2RWE0ZVMzSmRIcTlJd1ZwQngrYUJEaz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.android.vending": [
+    {
+      "spatula": "CjMKE2NvbS5hbmRyb2lkLnZlbmRpbmcaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.magazines": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1hZ2F6aW5lcxocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY="
+    },
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1hZ2F6aW5lcxocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.userpanel": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnVzZXJwYW5lbBocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.docs.editors.docs": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmRvY3MuZWRpdG9ycy5kb2NzGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.santatracker": [
+    {
+      "sig": "9b424c2d27ad51a42a337e0bb6991c76eca44461",
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnNhbnRhdHJhY2tlchocbTBKTUxTZXRVYVFxTTM0THRwa2NkdXlrUkdFPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.intelligence.sense": [
+    {
+      "sig": "c5883b658c1d4ac94e5e8db4f331c428eced337a",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuaW50ZWxsaWdlbmNlLnNlbnNlGhx4WWc3Wll3ZFNzbE9YbzIwOHpIRUtPenRNM289GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.wearable.app": [
+    {
+      "sig": "a197f9212f2fed64f0ff9c2a4edf24b9c8801c8c",
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC53ZWFyYWJsZS5hcHAaHG9aZjVJUzh2N1dUdy81d3FUdDhrdWNpQUhJdz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.youtube.unplugged": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUudW5wbHVnZ2VkGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    },
+    {
+      "sig": "3a82b5ee26bc46bf68113d920e610cd090198d4a",
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUudW5wbHVnZ2VkGhxPb0sxN2lhOFJyOW9FVDJTRG1FTTBKQVpqVW89GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.playconsole": [
+    {
+      "sig": "d6c35e55b481aefddd74152ca7254332739a81d6",
+      "spatula": "CkMKI2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBsYXljb25zb2xlGhwxc05lVmJTQnJ2M2RkQlVzcHlWRE1uT2FnZFk9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.onlineinsightspanel": [
+    {
+      "sig": "b0a1b964296aa3d946e47eb47b260179a5563e01",
+      "spatula": "CksKK2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm9ubGluZWluc2lnaHRzcGFuZWwaHHNLRzVaQ2xxbzlsRzVINjBleVlCZWFWV1BnRT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.chrome.canary": [
+    {
+      "spatula": "CjEKEWNvbS5jaHJvbWUuY2FuYXJ5GhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    },
+    {
+      "spatula": "CjEKEWNvbS5jaHJvbWUuY2FuYXJ5GhwwOHdYV0tGVTYzM1ovNzVTbFFGbk04bG9JV0U9GLingOeJmKD6Ng==",
+      "sig": "d3cc1758a154eb7dd9ffbe5295016733c9682161"
+    }
+  ],
+  "com.google.android.apps.nbu.tinytask": [
+    {
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5idS50aW55dGFzaxocQXpGZS9JTWIzQWRGZ1hlYkE4YlJtaHAvb3BnPRi4p4DniZig+jY=",
+      "sig": "03315efc831bdc074581779b03c6d19a1a7fa298"
+    }
+  ],
+  "com.google.android.apps.plus": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBsdXMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.adm": [
+    {
+      "spatula": "CjsKG2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFkbRocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.navlite": [
+    {
+      "sig": "a73a264872956c9eda55a74238a24c85479b30dd",
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5hdmxpdGUaHHB6b21TSEtWYko3YVZhZENPS0pNaFVlYk1OMD0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.youtube.mango": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUubWFuZ28aHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.audition": [
+    {
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmF1ZGl0aW9uGhxFVlpUbHVBMHRWT0hJOGZxU3pVWmFEcG12bmc9GLingOeJmKD6Ng==",
+      "sig": "11565396e034b5538723c7ea4b3519683a66be78"
+    }
+  ],
+  "com.google.android.youtube": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CjoKGmNvbS5nb29nbGUuYW5kcm9pZC55b3V0dWJlGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.improv": [
+    {
+      "sig": "218909d59d3ce825f29c4e9b0a68ebe0b67801d3",
+      "spatula": "Cj4KHmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmltcHJvdhocSVlrSjFaMDg2Q1h5bkU2YkNtanI0TFo0QWRNPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.marvin.talkback": [
+    {
+      "sig": "9b424c2d27ad51a42a337e0bb6991c76eca44461",
+      "spatula": "CkIKImNvbS5nb29nbGUuYW5kcm9pZC5tYXJ2aW4udGFsa2JhY2saHG0wSk1MU2V0VWFRcU0zNEx0cGtjZHV5a1JHRT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.earth": [
+    {
+      "spatula": "CjAKEGNvbS5nb29nbGUuZWFydGgaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.helprtc": [
+    {
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmhlbHBydGMaHEtSUzJaUHFGYktDN256b2M3Vy94QzhDU2kvRT0YuKeA54mYoPo2",
+      "sig": "2914b664fa856ca0bb9f3a1ced6ff10bc0928bf1"
+    }
+  ],
+  "com.google.android.apps.kids.familylink": [
+    {
+      "sig": "88652b8464743e5ce80da0d4b890d13f9b1873df",
+      "spatula": "CkcKJ2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmtpZHMuZmFtaWx5bGluaxocaUdVcmhHUjBQbHpvRGFEVXVKRFJQNXNZYzk4PRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.ar.lens": [
+    {
+      "sig": "fb65c83f567984c660a27f9777396f1fca7e211e",
+      "spatula": "CjIKEmNvbS5nb29nbGUuYXIubGVucxocKzJYSVAxWjVoTVpnb24rWGR6bHZIOHArSVI0PRi4p4DniZig+jY="
+    }
+  ],
+  "com.chrome.dev": [
+    {
+      "spatula": "Ci4KDmNvbS5jaHJvbWUuZGV2GhxKcGpBSm94dXVvdXdZT3lxSjlya0lKaG9Pd009GLingOeJmKD6Ng==",
+      "sig": "2698c0268c6eba8bb060ecaa27dae42098683b03"
+    },
+    {
+      "spatula": "Ci4KDmNvbS5jaHJvbWUuZGV2GhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.contacts": [
+    {
+      "spatula": "CjsKG2NvbS5nb29nbGUuYW5kcm9pZC5jb250YWN0cxocN2o0clhaVTJYRm9jekMyTi9ralpUck03UHI0PRi4p4DniZig+jY=",
+      "sig": "ee3e2b5d95365c5a1ccc2d8dfe48d94eb33b3ebe"
+    }
+  ],
+  "com.google.android.apps.googlevoice": [
+    {
+      "spatula": "CkMKI2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmdvb2dsZXZvaWNlGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.music": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjgKGGNvbS5nb29nbGUuYW5kcm9pZC5tdXNpYxocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY="
+    }
+  ],
+  "com.area120.grasshopper": [
+    {
+      "spatula": "CjcKF2NvbS5hcmVhMTIwLmdyYXNzaG9wcGVyGhw0ekJQcFYwYVI0cXRrTDBkTWs0QzZ1U1B1anM9GLingOeJmKD6Ng==",
+      "sig": "e3304fa55d1a478aad90bd1d324e02eae48fba3b"
+    }
+  ],
+  "com.google.android.as": [
+    {
+      "spatula": "CjUKFWNvbS5nb29nbGUuYW5kcm9pZC5hcxocTmIyVmFHZkdsM2pxeDIya3daaEdtM2ZTemFFPRi4p4DniZig+jY=",
+      "sig": "35bd956867c69778eac76da4c198469b77d2cda1"
+    }
+  ],
+  "com.google.android.apps.fitness": [
+    {
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmZpdG5lc3MaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.cloudprint": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkIKImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNsb3VkcHJpbnQaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    },
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CkIKImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNsb3VkcHJpbnQaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.inbox": [
+    {
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmluYm94Ghxxb2ZPRW1EQUNOZ0JHWHUwN09wS3VKS2Rva1k9GLingOeJmKD6Ng==",
+      "sig": "aa87ce1260c008d801197bb4ecea4ab8929da246"
+    }
+  ],
+  "com.google.android.apps.accessibility.reveal": [
+    {
+      "sig": "c20bf5f6d8d1248ead6f12523e82c356865cdebb",
+      "spatula": "CkwKLGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFjY2Vzc2liaWxpdHkucmV2ZWFsGhx3Z3YxOXRqUkpJNnRieEpTUG9MRFZvWmMzcnM9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.enterprise.cpanel": [
+    {
+      "spatula": "CkkKKWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmVudGVycHJpc2UuY3BhbmVsGhxKTHNrd0Y1SDRLNzZhS1dLZG1GNTJiWVRwZ0E9GLingOeJmKD6Ng==",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.kids.home": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmtpZHMuaG9tZRocNUl3YWlRRUdzTzVWY1NITWlaRUIxSHBNTDZBPRi4p4DniZig+jY=",
+      "sig": "e48c1a890106b0ee557121cc899101d47a4c2fa0"
+    }
+  ],
+  "com.google.android.apps.tycho": [
+    {
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnR5Y2hvGhxBYmhFR0U0MkJvYXFtTFNPc1c0RngyMUtjcTA9GLingOeJmKD6Ng==",
+      "sig": "01b844184e360686aa98b48eb16e05c76d4a72ad"
+    }
+  ],
+  "com.google.android.apps.freighter": [
+    {
+      "sig": "d2286f125bf09a02ab74524dc43eea0cb45592ac",
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmZyZWlnaHRlchocMGlodkVsdndtZ0tyZEZKTnhEN3FETFJWa3F3PRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.play.games": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5wbGF5LmdhbWVzGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.stadia.android": [
+    {
+      "sig": "133aad3b3d3b580e286573c37f20549f9d3d1cce",
+      "spatula": "CjkKGWNvbS5nb29nbGUuc3RhZGlhLmFuZHJvaWQaHEV6cXRPejA3V0E0b1pYUERmeUJVbjUwOUhNND0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.maps": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjwKHGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1hcHMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.walletnfcrel": [
+    {
+      "sig": "82759e2db43f9ccbafce313bc674f35748fabd7a",
+      "spatula": "CkQKJGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLndhbGxldG5mY3JlbBocZ25XZUxiUS9uTXV2empFN3huVHpWMGo2dlhvPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.street": [
+    {
+      "spatula": "CjkKGWNvbS5nb29nbGUuYW5kcm9pZC5zdHJlZXQaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.location.nearby.apps.fastpair.validator": [
+    {
+      "sig": "36620bc3ad6d9d9e788d9194fe092a7557031441",
+      "spatula": "ClIKMmNvbS5nb29nbGUubG9jYXRpb24ubmVhcmJ5LmFwcHMuZmFzdHBhaXIudmFsaWRhdG9yGhxObUlMdzYxdG5aNTRqWkdVL2drcWRWY0RGRUU9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.studykit": [
+    {
+      "sig": "f13614b13f889e1551cbda08f30bcf606e0628d9",
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnN0dWR5a2l0Ghw4VFlVc1QrSW5oVlJ5OW9JOHd2UFlHNEdLTms9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.youtube.producer": [
+    {
+      "sig": "e64e926eeeb0e09ef4749b51720336c8976e87f1",
+      "spatula": "CkgKKGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnlvdXR1YmUucHJvZHVjZXIaHDVrNlNidTZ3NEo3MGRKdFJjZ00yeUpkdWgvRT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.gm.lite": [
+    {
+      "spatula": "CjoKGmNvbS5nb29nbGUuYW5kcm9pZC5nbS5saXRlGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng==",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.cloud.cloudbi": [
+    {
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNsb3VkLmNsb3VkYmkaHG9Zano3M1pmMkJQMVFDV2E4dC9HK3RMOHhWQT0YuKeA54mYoPo2",
+      "sig": "a188f3ef765fd813f540259af2dfc6fad2fcc550"
+    }
+  ],
+  "com.google.android.apps.tachyon": [
+    {
+      "sig": "a0bc09af527b6397c7a9ef171d6cf76f757becc3",
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRhY2h5b24aHG9Md0pyMUo3WTVmSHFlOFhIV3ozYjNWNzdNTT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.tvlauncher": [
+    {
+      "sig": "bf2329113ee5851a509acda6b0fb97614b9f201b",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC50dmxhdW5jaGVyGhx2eU1wRVQ3bGhScFFtczJtc1B1WFlVdWZJQnM9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.authenticator2": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmF1dGhlbnRpY2F0b3IyGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.tasks": [
+    {
+      "sig": "5af12649728293f2d9f5e8c61e455a8fea16e7d8",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnRhc2tzGhxXdkVtU1hLQ2svTFo5ZWpHSGtWYWorb1c1OWc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.recorder": [
+    {
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnJlY29yZGVyGhxPVTJFelN6NG5UUlRjQ3htUDVqc1pWU3Z3ODA9GLingOeJmKD6Ng==",
+      "sig": "394d84cd2cf89d3453702c663f98ec6554afc3cd"
+    }
+  ],
+  "com.google.android.apps.searchlite": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CkIKImNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnNlYXJjaGxpdGUaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.docs.editors.sheets": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CksKK2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmRvY3MuZWRpdG9ycy5zaGVldHMaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.blogger": [
+    {
+      "spatula": "Cj8KH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmJsb2dnZXIaHEpMc2t3RjVINEs3NmFLV0tkbUY1MmJZVHBnQT0YuKeA54mYoPo2",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.ims": [
+    {
+      "sig": "6ddb6673e07f05a1bece93343651ad167faddc10",
+      "spatula": "CjYKFmNvbS5nb29nbGUuYW5kcm9pZC5pbXMaHGJkdG1jK0IvQmFHK3pwTTBObEd0Rm4rdDNCQT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.calendar": [
+    {
+      "spatula": "CjsKG2NvbS5nb29nbGUuYW5kcm9pZC5jYWxlbmRhchocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.gms": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjYKFmNvbS5nb29nbGUuYW5kcm9pZC5nbXMaHE9KR0tSVDBIR1pOVStMR2E4RjdHVml6dFY0Zz0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.seekh": [
+    {
+      "sig": "d8c0c3105de8f4d74227346543827193ee6f4c16",
+      "spatula": "Cj0KHWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnNlZWtoGhwyTURERUYzbzlOZENKelJsUTRKeGsrNXZUQlk9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.meetings": [
+    {
+      "sig": "47a6936b733dbdb45d71997fbe1d610eca36b8bf",
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1lZXRpbmdzGhxSNmFUYTNNOXZiUmRjWmwvdmgxaERzbzJ1TDg9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.nbu.paisa.user": [
+    {
+      "sig": "80df78bb700f9172bc671779b017ddefefcbf552",
+      "spatula": "CkYKJmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5idS5wYWlzYS51c2VyGhxnTjk0dTNBUGtYSzhaeGQ1c0JmZDcrL0w5Vkk9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.blogvalet": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmJsb2d2YWxldBocSldKcHRPYWM3RVBHUi84SXFIOWJNbnlxZDdNPRi4p4DniZig+jY=",
+      "sig": "256269b4e69cec43c647ff08a87f5b327caa77b3"
+    }
+  ],
+  "com.google.android.apps.work.clouddpc": [
+    {
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLndvcmsuY2xvdWRkcGMaHGFUZ0V2Z2xiMTNveWRrbW91WERPSmNFM01Haz0YuKeA54mYoPo2",
+      "sig": "693804be095bd77a327649a8b970ce25c1373069"
+    }
+  ],
+  "com.google.android.apps.photos": [
+    {
+      "spatula": "Cj4KHmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBob3RvcxocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY=",
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600"
+    }
+  ],
+  "com.google.android.apps.cerebra.links": [
+    {
+      "sig": "940769a617004f10a26c6d0916c11d6d9e660765",
+      "spatula": "CkUKJWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNlcmVicmEubGlua3MaHGxBZHBwaGNBVHhDaWJHMEpGc0VkYlo1bUIyVT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.research.projectrelate": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUucmVzZWFyY2gucHJvamVjdHJlbGF0ZRocNGdDWUNCenB1bWM3UFBNTE1uUFJHRjAxclNzPRi4p4DniZig+jY=",
+      "sig": "e20098081ce9ba673b3cf30b3273d1185d35ad2b"
+    }
+  ],
+  "com.google.android.apps.kids.familylinkhelper": [
+    {
+      "spatula": "Ck0KLWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmtpZHMuZmFtaWx5bGlua2hlbHBlchocbFZqVzBhakh0eEdmb24rTUpOS2Vlbkk3eDEwPRi4p4DniZig+jY=",
+      "sig": "9558d6d1a8c7b7119fa27f8c24d29e7a723bc75d"
+    }
+  ],
+  "com.google.android.apps.location.beacon.beacontools": [
+    {
+      "spatula": "ClMKM2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmxvY2F0aW9uLmJlYWNvbi5iZWFjb250b29scxocWlV4MFJnMjBEa0lDNnlQMisrcDVqTGdSaWlvPRi4p4DniZig+jY=",
+      "sig": "654c74460db40e4202eb23f6fbea798cb8118a2a"
+    }
+  ],
+  "com.google.chromeremotedesktop": [
+    {
+      "spatula": "Cj4KHmNvbS5nb29nbGUuY2hyb21lcmVtb3RlZGVza3RvcBocT0pHS1JUMEhHWk5VK0xHYThGN0dWaXp0VjRnPRi4p4DniZig+jY=",
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788"
+    }
+  ],
+  "com.google.android.apps.health.provider.clinicians": [
+    {
+      "spatula": "ClIKMmNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmhlYWx0aC5wcm92aWRlci5jbGluaWNpYW5zGhxMeE4rYWNIVEV2bTFkNnJWdjRUNURWQTQ3T3c9GLingOeJmKD6Ng==",
+      "sig": "2f137e69c1d312f9b577aad5bf84f90d5038ecec"
+    }
+  ],
+  "com.google.samples.apps.adssched": [
+    {
+      "sig": "f20f8c736bbd19b7a8d68acfda9ce4d0a29d8de4",
+      "spatula": "CkAKIGNvbS5nb29nbGUuc2FtcGxlcy5hcHBzLmFkc3NjaGVkGhw4ZytNYzJ1OUdiZW8xb3JQMnB6azBLS2RqZVE9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.talk": [
+    {
+      "sig": "38918a453d07199354f8b19af05ec6562ced5788",
+      "spatula": "CjcKF2NvbS5nb29nbGUuYW5kcm9pZC50YWxrGhxPSkdLUlQwSEdaTlUrTEdhOEY3R1ZpenRWNGc9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.photosgo": [
+    {
+      "sig": "643fd63d7df2c3f5ab507febb20a1847c53b4d49",
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBob3Rvc2dvGhxaRC9XUFgzeXcvV3JVSC9yc2dvWVI4VTdUVWs9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.vr.expeditions": [
+    {
+      "sig": "f4f524e3881672953ca4871765d81501bd23d2e1",
+      "spatula": "CjkKGWNvbS5nb29nbGUudnIuZXhwZWRpdGlvbnMaHDlQVWs0NGdXY3BVOHBJY1haZGdWQWIwajB1RT0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.android.apps.emergencyassist": [
+    {
+      "sig": "8043fa9595d0a9a5c188d4e0d0aa065e2d788d04",
+      "spatula": "CkcKJ2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmVtZXJnZW5jeWFzc2lzdBocZ0VQNmxaWFFxYVhCaU5UZzBLb0dYaTE0alFRPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.accessibility.auditor": [
+    {
+      "spatula": "Ck0KLWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFjY2Vzc2liaWxpdHkuYXVkaXRvchocR0wrcnNONGQ0a1EyOFd0SmFJbWJ6VFFZNDg0PRi4p4DniZig+jY=",
+      "sig": "18bfabb0de1de24436f16b4968899bcd3418e3ce"
+    }
+  ],
+  "com.google.android.apps.podcasts": [
+    {
+      "spatula": "CkAKIGNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLnBvZGNhc3RzGhwvN3c4ZFQ2d2NYSmhPejA4YkRzcTFUZ3pEbms9GLingOeJmKD6Ng==",
+      "sig": "ffbc3c753eb07172613b3d3c6c3b2ad538330e79"
+    }
+  ],
+  "com.google.android.apps.messaging": [
+    {
+      "spatula": "CkEKIWNvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm1lc3NhZ2luZxocQ1lDaEsrbVRVb3daRUh2Q0d0Z1JSNHhqenZ3PRi4p4DniZig+jY=",
+      "sig": "0980a12be993528c19107bc21ad811478c63cefc"
+    }
+  ],
+  "com.google.android.apps.nbu.society": [
+    {
+      "sig": "8b807f6511e9e97ddc916688bf52553ecff6368b",
+      "spatula": "CkMKI2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm5idS5zb2NpZXR5GhxpNEIvWlJIcDZYM2NrV2FJdjFKVlBzLzJOb3M9GLingOeJmKD6Ng=="
+    }
+  ],
+  "com.google.android.apps.carrier.carrierwifi": [
+    {
+      "spatula": "CksKK2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmNhcnJpZXIuY2FycmllcndpZmkaHGdwRWtpRTZlM2ZMdi8yZ3VxWEl2dmFHUGgzcz0YuKeA54mYoPo2",
+      "sig": "829124884e9eddf2efff682ea9722fbda18f877b"
+    }
+  ],
+  "com.google.android.apps.accessibility.maui.actionblocks": [
+    {
+      "sig": "2c0b086f5f42738778ec952749afa7c22a20e7ce",
+      "spatula": "ClcKN2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLmFjY2Vzc2liaWxpdHkubWF1aS5hY3Rpb25ibG9ja3MaHExBc0liMTlDYzRkNDdKVW5TYStud2lvZzU4ND0YuKeA54mYoPo2"
+    }
+  ],
+  "com.google.vr.apps.ornament": [
+    {
+      "sig": "4b7ff0282c67d7d72ea43730f554263f04ce3155",
+      "spatula": "CjsKG2NvbS5nb29nbGUudnIuYXBwcy5vcm5hbWVudBocUzMvd0tDeG4xOWN1cERjdzlWUW1Qd1RPTVZVPRi4p4DniZig+jY="
+    }
+  ],
+  "com.google.android.apps.m4b": [
+    {
+      "sig": "24bb24c05e47e0aefa68a58a766179d9b613a600",
+      "spatula": "CjsKG2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLm00YhocSkxza3dGNUg0Szc2YUtXS2RtRjUyYllUcGdBPRi4p4DniZig+jY="
+    }
+  ]
+}

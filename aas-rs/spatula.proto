@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package spatula;
+
+message SpatulaInner {
+  AppInfo app_info = 1;
+  int64 droidguard_response = 3;
+}
+
+message AppInfo {
+  string package_name = 1;
+  string signature = 3;
+}
