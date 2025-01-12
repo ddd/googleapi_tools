@@ -21,4 +21,4 @@ This repo contains files relevant to the blog post [Decoding Google: Converting 
 
 ### [discovery2json](https://github.com/yopgh/discovery2json)
 - Python tool to dump the request JSON for an endpoint given the discovery document
-- Credits: @yopgh
+- Credits: [@yopgh](https://github.com/yopgh)
