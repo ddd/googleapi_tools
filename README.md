@@ -1,20 +1,25 @@
 
-# googleapi_tools
+# req2proto
 
 This repo contains files relevant to the blog post [Decoding Google: Converting a Black Box to a White Box](https://brutecat.com/articles/decoding-google)
 
-### [req2proto](./req2proto) (experimental)
-- Go tool to find the request protobuf of any Google API endpoint by bruting all parameters via protojson error messages
-> This tool is currently experimental
+This project seeks to reverse-engineer Google internal protobuf definitions through error messages returned when sent protojson payloads.
 
-### [gapi-service](./gapi-service)
-- Go tool to output required scopes as well as the gRPC service name of a Google API service
-- Requires an Android refresh token
+> [!IMPORTANT]  
+> This is still in an experimental state
 
-### [aas-rs](./aas-rs)
-- A Rust tool to output valid Android API clients given a list of Android package IDs as well as SHA1 signatures
-- The output file can be found [data/android_clients.json](data/android_clients.json)
+```
+$ go build; ./req2proto -H "Authorization: Bearer ya29...." -X POST -u https://people-pa.googleapis.com/v2/people -p google.internal.people.v2.InsertPersonRequest -o output
+```
 
-### [aas-scope-rs](./aas-scope-rs)
-- A Rust tool for finding Android API clients that are approved for a target scope
-- This is useful if you are looking to get authentication on an endpoint and you found the scopes required from `gapi-service`
+The `output` dir will then contain the request `.proto` files.
+
+
+**TODO List**
+- [ ] Add protojson response parsing support (in case the endpoint supports only protojson)
+- [ ] Add automatic .proto import
+- [ ] Support multithreading
+
+**Example output:**
+
+![req2proto output](./static/images/req2proto_output.png "Example req2proto output")

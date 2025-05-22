@@ -151,6 +151,7 @@ async fn worker(receiver: Receiver<ScopeCheck>, token: String) -> Vec<ScopeResul
                 let text = resp.text().await.unwrap_or_default();
                 if !text.contains("Error=RESTRICTED_CLIENT") && !text.contains("Error=UNREGISTERED_ON_API_CONSOLE") {
                     println!("Found approved scope: {} for app={}, sig={}", task.scope, task.app, task.sig);
+                    println!("text: {}", text);
                     approved_scopes.push(task.scope);
                 }
             }
